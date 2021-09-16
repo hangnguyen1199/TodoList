@@ -186,7 +186,7 @@ span {
 }
 
 
-/*index*/
+/*home*/
 
 .index {
     width: 70%;
@@ -237,6 +237,11 @@ td {
 
 
 /*admin*/
+
+#demo {
+    font-size: 10px;
+    color: red;
+}
 
 
 /*pagination*/
